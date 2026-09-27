@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BAN FIRIN BAKERS",
+      "hasCanvas": false,
+      "bodyTextLen": 4295,
+      "bodyTextHash": "02778764c63584310ececb7536ab49066fd8640d3d2f2fdb21a070ac09b6d85e",
+      "bodyTextPrefix": "Skip to content Limited time sale ends in 08:00:00 BAN FIRIN BAK",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BAN FIRIN BAKERS",
+      "hasCanvas": false,
+      "bodyTextLen": 4273,
+      "bodyTextHash": "7a70b13256a50618f34c175f786d533b123268e92804a4e93926721539d08923",
+      "bodyTextPrefix": "Skip to content Limited time sale ends in 08:00:00 BAN FIRIN BAK",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
